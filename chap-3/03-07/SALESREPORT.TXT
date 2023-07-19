@@ -1,0 +1,11 @@
+ITEM DESCRIPTION                    PRICE        QUANTITY     TOTAL
+     DOG SHAMPOO                    $13.95         1          $13.95
+     FLEA & TICK COLLAR             $23.95         2          $47.90
+     CAGE                           $78.95         1          $78.95
+     CRATE                          $65.95         1          $65.95
+     FLEA & TICK COLLAR             $78.95         1          $78.95
+     DOG CAGE                       $58.95         1          $58.95
+     SCRATCHING POST                $60.95         1          $60.95
+     LEASH                          $75.95         3         $227.85
+     BIRD CAGE                      $80.95         1          $80.95
+           TOTAL QUANTITY:012  TOTAL AMOUNT:                 $714.40

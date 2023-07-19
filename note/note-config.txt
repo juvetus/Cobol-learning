@@ -1,0 +1,3 @@
+https://gnucobol.sourceforge.io/
+https://www.ibm.com/docs/fr/i/7.3?topic=languages-cobol
+https://www.ibm.com/docs/fr/developer-for-zos/9.1.1?topic=applications-connecting-db2-database-by-using-cobol-pli

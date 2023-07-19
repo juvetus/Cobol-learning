@@ -1,0 +1,13 @@
+CUSTOMER NAME   ITEM DESCRIPTION      PRICE        QUANTITY     TOTAL
+FISHER         PEGGY                    DOG SHAMPOO                    $13.95
+SLATTERY       MARY                     FLEA & TICK COLLAR             $23.95
+GATES          WILLIAM                  CAGE                           $78.95
+SHILLINGS      PATTI                    CRATE                          $65.95
+CAI            GUORAI                   FLEA & TICK COLLAR             $78.95
+KHALIL         ZHAARA                   DOG CAGE                       $58.95
+ANDERSON       LILA                     SCRATCHING POST                $60.95
+HOPKE          JOAN                     LEASH                          $75.95
+YOUNG          REGINA                   BIRD CAGE                      $80.95
+ANDERSON       LILA                     SCRATCHING POST                $60.95
+                                  TOTAL QUANTITY:013  TOTAL AMOUNT:
+                              CUSTOMER TOTAL:                      $0.00
